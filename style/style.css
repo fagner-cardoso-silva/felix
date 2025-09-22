@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    border: 0;
+}
+
+.card_main {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 900px;
+    border: 2px solid purple;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+.organiza {
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+
+    border: 2px solid purple;
+
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+
+
+}
+.organiza1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    margin: 25px;
+}
+
+.organiza2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    margin: 25px;
+}
+
+.organiza3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    margin: 25px;
+}
+
+
